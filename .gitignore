@@ -1,0 +1,8 @@
+__pycache__
+*.py#
+/test/.cache
+.cache
+\#
+*.yml#
+.DS_Store
+.idea
